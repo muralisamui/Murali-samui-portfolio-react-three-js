@@ -1,18 +1,12 @@
-# Portfolio Website - Aman Arya
+# Portfolio Website - Murali Samui
 
-<b>Visit [Am4nn/Portfolio-Nextjs-Website](https://github.com/Am4nn/Portfolio-Nextjs-Website) github repository for the updated portfolio made using Nextjs:14 </b>
+Welcome to my portfolio website built with ReactJS, Three.js, and hosted on Vercel with a custom domain
 
-Welcome to my portfolio website built with ReactJS, Three.js, and hosted on Vercel with a custom domain [react.amanarya.com](https://react.amanarya.com)
-
-![Portfolio Screenshot](public/preview.png)
+![Portfolio Screenshot](public/projects/PortfolioBG.png)
 
 ## Overview
 
 This project showcases my portfolio and allows visitors to view my work and send me messages directly through the website.
-
-## Live Demo
-
-You can see the live demo of this project at [https://react.amanarya.com](https://react.amanarya.com)
 
 ## Installation
 
@@ -21,7 +15,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Am4nn/Portfolio-Website.git
+   git clone https://github.com/muralisamui/Murali-samui-portfolio-react-three-js.git
    ```
 
 2. Navigate to the project directory:
@@ -52,11 +46,9 @@ To run this project locally, follow these steps:
 
 - Serverless API: The website uses a serverless function hosted on Vercel to handle form submissions and send emails using Nodemailer
 
-- Custom Domain: The portfolio is hosted on a custom domain, [react.amanarya.com](https://react.amanarya.com)
-
 ## Contact
 
-If you have any questions, feedback, or would like to get in touch with me, you can use the contact form on my portfolio or email me at <125aryaaman@gmail.com>
+If you have any questions, feedback, or would like to get in touch with me, you can use the contact form on my portfolio or email me at <muralisamui997@gmail.com>
 
 ## License
 
