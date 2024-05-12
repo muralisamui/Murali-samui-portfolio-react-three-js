@@ -44,7 +44,7 @@ export const skills = [
     },
     {
         name: "Database",
-        items: ["MySQL", "MongoDB"],
+        items: ["MySQL", "MongoDB","PostgreSQL"],
     },
     {
         name: "Tools/Software/Others",
